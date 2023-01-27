@@ -1,0 +1,23 @@
+.up{
+    margin: 0 auto;
+    height: 400px;
+    width: 150px;
+    background-color: darkgrey;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.down{
+    height: 500px;
+    width: 20px;
+    margin: 0 auto;
+    background-color: darkgrey;
+}
+
+.circle{
+    height: 100px;
+    width: 100px;
+    background-color: darkslategray;
+    border-radius: 50%;
+}
